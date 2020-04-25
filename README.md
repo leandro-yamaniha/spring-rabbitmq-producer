@@ -1,5 +1,5 @@
 # spring-rabbitmq-producer
-Template de rabbitmq de exchange topic, para testes de mensagens.
+Template de rabbitmq de exchange topic, para testes de publicação de mensagens.
 
 ## Requisitos
 - [Java 8](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) / [OpenJDK 8](https://openjdk.java.net/install/)
