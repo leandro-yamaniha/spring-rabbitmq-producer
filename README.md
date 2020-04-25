@@ -37,3 +37,9 @@ curl --location --request POST 'localhost:8081/send' \
 
 ## Consumidor
 Importante clonar também o [repositorio](https://github.com/leandro-yamaniha/spring-rabbitmq-consumer) para testes em conjunto com consumidor de mensagens.
+
+## Links
+https://www.rabbitmq.com/tutorials/tutorial-five-java.html
+http://next.rabbitmq.com/documentation.html
+https://www.cloudamqp.com/blog/2015-09-03-part4-rabbitmq-for-beginners-exchanges-routing-keys-bindings.html
+http://adolfoeloy.com/rabbitmq/amqp/2016/09/07/rabbitmq-study.pt.html
