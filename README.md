@@ -35,4 +35,5 @@ curl --location --request POST 'localhost:8081/send' \
 }'
 ```
 
-
+## Consumidor
+Importante clonar também o [repositorio](https://github.com/leandro-yamaniha/spring-rabbitmq-consumer) para testes em conjunto com consumidor de mensagens.
