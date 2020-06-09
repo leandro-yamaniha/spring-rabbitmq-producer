@@ -2,10 +2,11 @@ server:
   port: 8081
 spring:
   rabbitmq:   
-    request:
-      host: localhost
-      port: 5672
-      username: guest
-      password: guest
+    host: ${mq-host:localhost}
+    port: $(mq-port:5672}
+    username: ${mq-username:guest}
+    password: ${mq-password:guest}
+    virtual-host: ${mq-vhost}
+    request:     
       exchange:
         name: ${exchange}
